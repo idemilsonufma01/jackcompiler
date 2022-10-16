@@ -1,0 +1,5 @@
+compiladores\jackcompiler\Parser.class
+compiladores\jackcompiler\Scanner.class
+compiladores\jackcompiler\TokenType.class
+compiladores\jackcompiler\Main.class
+compiladores\jackcompiler\Token.class
